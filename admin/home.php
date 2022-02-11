@@ -1,0 +1,1 @@
+<marquee behavior="alternate"><h2>Welcome Admin Laquinne Bouquet SHOP</h2></marquee>
